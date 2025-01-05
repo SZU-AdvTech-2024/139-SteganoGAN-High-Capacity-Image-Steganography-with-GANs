@@ -1,0 +1,8 @@
+@inproceedings{REPO139,
+    author = "Li, Xinyi and Chen, Yunjin and Wu, Shuang and Wei, Wei",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    doi = "10.1109/CVPR.2019.01013",
+    pages = "2540--2548",
+    title = "{SteganoGAN: High Capacity Image Steganography with GANs}",
+    year = "2019"
+}
